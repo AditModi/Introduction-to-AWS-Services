@@ -5,9 +5,9 @@ The **Introduction to AWS Services** is a mini Series containing different artic
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/AditModi/Introduction-to-AWS-Services)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
 
-|               | Topic        | Dev.to       | Medium       | Hashnode     | Tealfeed     |
-| ------------  | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  1 | Introduction to **AWS Cloudformation** |[ Dev.to ]() |[ Medium ]() |[ Hashnode ]() |[ Tealfeed ]() |
-|  2 | Introduction to **AWS ElasticBeanstalk** |[ Dev.to ]() |[ Medium ]() |[ Hashnode ]() |[ Tealfeed ]() |
-|  3 | Introduction to **Amazon S3** |[ Dev.to ]() |[ Medium ]() |[ Hashnode ]() |[ Tealfeed ]() |
-|  4 | Introduction to **Amazon SageMaker** |[ Dev.to ]() |[ Medium ]() |[ Hashnode ]() |[ Tealfeed ]() |
+|               | Topic        | Personal Website | Hashnode     | 
+| ------------  | ------------ | ---------------- | ------------ | 
+|  1 | Introduction to **AWS Cloudformation** |[ Link ]() |[ Hashnode ]()
+|  2 | Introduction to **AWS ElasticBeanstalk** |[ Link ]() |[ Hashnode ]()
+|  3 | Introduction to **Amazon S3** |[ Link ]() |[ Hashnode ]() 
+|  4 | Introduction to **Amazon SageMaker** |[ Link ]() |[ Hashnode ]() 
