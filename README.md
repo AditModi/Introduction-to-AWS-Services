@@ -4,6 +4,8 @@ The **Introduction to AWS Services** is a mini Series containing different artic
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/AditModi/Introduction-to-AWS-Services)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
+![Introduction to AWS Services](https://user-images.githubusercontent.com/48589838/177524645-2889cd6e-69ff-4f6b-acaf-b80d260352b1.jpg)
+
 
 |               | Topic        | Personal Website | Hashnode     | 
 | ------------  | ------------ | ---------------- | ------------ | 
